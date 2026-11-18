@@ -7,7 +7,7 @@ class Pantalla extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
-        child: Text("Pantalla Daniel"),
+        child: Text("Pantalla Ramírez"),
       ),
     );
   }
