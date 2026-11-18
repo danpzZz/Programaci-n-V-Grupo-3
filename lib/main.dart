@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/Presentacion/Screens/pantalla.dart';
+import 'package:flutter_application_1/Presentacion/Screens/pantalla_juan.dart';
 
 
 void main() {
@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Pantalla(),
+      home: PantallaJuan(),
     );
   }
 }
